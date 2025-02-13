@@ -37,7 +37,7 @@ If `Newlist <- list(a=1:10, b="Good morning", c="Hi")`, write an R statement tha
 ```{r}
 Newlist <- list(a=1:10, b="Good morning", c="Hi")
 
-Newlist <- Newlist$a + 1
+Newlist$a + 1
 
 
 ```
